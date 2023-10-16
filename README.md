@@ -32,6 +32,6 @@ We then opened up a space on Snapshot to test how we'd enable governance for our
 
 After everything was setup, we airdropped our "YogeB" token onto a few frens, setup the Snapshot and now we're ready to DAO it up!
 
-<img src="www/p4.png" align="center"/>
+<img src="www/p4.jpeg" align="center"/>
 <div align="center">Snapshot Proposal</div>
 <br>
